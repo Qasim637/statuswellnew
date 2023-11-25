@@ -1,0 +1,90 @@
+body {
+  margin: 0;
+  line-height: normal;
+  /* Set the initial zoom level to 67% */
+  zoom: 0.67;
+  /* For older versions of IE, you can use the proprietary zoom property */
+  -ms-zoom: 0.67;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-fahkwang: Fahkwang;
+  --font-montserrat: Montserrat;
+  --font-dm-sans: "DM Sans";
+  --font-inherit: inherit;
+  --font-plus-jakarta-sans: "Plus Jakarta Sans";
+
+  /* font sizes */
+  --font-size-base: 16px;
+  --font-size-6xl: 25px;
+  --font-size-6xs: 7px;
+  --font-size-3xs: 10px;
+  --font-size-xl: 20px;
+  --font-size-lg: 18px;
+  --font-size-5xl: 24px;
+  --font-size-55xl: 74px;
+  --font-size-15xl: 34px;
+  --font-size-7xl-7: 26.7px;
+  --font-size-21xl: 40px;
+  --font-size-40xl: 59px;
+  --font-size-19xl: 38px;
+  --font-size-lgi-4: 19.4px;
+  --font-size-13xl: 32px;
+  --font-size-9xl: 28px;
+  --font-size-3xl: 22px;
+  --font-size-3xl-3: 22.3px;
+  --font-size-2xl-9: 21.9px;
+  --font-size-xl-6: 20.6px;
+  --font-size-7xl: 26px;
+  --font-size-29xl: 48px;
+
+  /* Colors */
+  --color-white: #fff;
+  --main-color: #408afd;
+  --color-black: #000;
+  --color-whitesmoke: #f6f6f6;
+  --color-darkgray: #b4b4b4;
+  --color-dimgray: #4f555a;
+  --color-royalblue: #1678f2;
+  --neutral-400: #d9dbe9;
+  --secondary-colors-color-2: #f2f1ff;
+  --neutral-600: #6f6c90;
+  --color-aliceblue: #ecf3ff;
+  --color-lightcoral: #ff9a9a;
+  --black: #1a202c;
+  --color-gray-100: #121212;
+  --color-gray-200: #10100e;
+  --color-lightsteelblue: #c7ddff;
+
+  /* Gaps */
+  --gap-2xs-7: 10.7px;
+  --gap-5xs: 8px;
+  --gap-34xl-3: 53.3px;
+  --gap-5xl: 24px;
+  --gap-13xl: 32px;
+  --gap-10xl-3: 29.3px;
+
+  /* Paddings */
+  --padding-7xl: 26px;
+  --padding-8xl: 27px;
+
+  /* Border radiuses */
+  --br-5xs: 8px;
+  --br-9xs: 4px;
+  --br-7xs: 6px;
+  --br-mini: 15px;
+  --br-2xs-7: 10.7px;
+  --br-6xl: 25px;
+  --br-11xs: 2px;
+  --br-mini-7: 14.7px;
+  --br-21xl: 40px;
+  --br-101xl: 120px;
+  --br-3xs: 10px;
+  --br-5xl: 24px;
+  --br-20xl: 39px;
+  --br-3xl: 22px;
+  --br-236xl: 255px;
+  --br-xl: 20px;
+}

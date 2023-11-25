@@ -1,0 +1,840 @@
+.effortless-medication-access-2-child,
+.effortless-medication-access-2-item {
+  position: absolute;
+  top: 90px;
+  left: 0;
+  background-color: var(--color-aliceblue);
+  width: 1920px;
+  height: 990px;
+}
+.effortless-medication-access-2-item {
+  top: 0;
+  background-color: var(--color-white);
+  height: 90px;
+}
+.continue10 {
+  position: absolute;
+  top: calc(50% - 9.5px);
+  left: calc(50% - 45px);
+  line-height: 18px;
+}
+.svg-icon14 {
+  position: absolute;
+  top: calc(50% - 5.5px);
+  left: calc(50% + 38px);
+  width: 18px;
+  height: 14px;
+}
+.link114 {
+  position: absolute;
+  top: calc(50% - 2258.5px);
+  left: 1681px;
+  border-radius: var(--br-5xs);
+  background-color: var(--main-color);
+  width: 138px;
+  height: 49px;
+  cursor: pointer;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+}
+.link-the16 {
+  position: absolute;
+  top: 26px;
+  left: 112px;
+  font-size: var(--font-size-21xl);
+  font-weight: 500;
+  font-family: var(--font-fahkwang);
+  color: var(--main-color);
+}
+.logo-in-3f89fd-blue-removebg-p-icon16 {
+  position: absolute;
+  top: 25px;
+  left: 38px;
+  width: 62px;
+  height: 53.7px;
+  object-fit: cover;
+}
+.link-the17 {
+  left: 0;
+  opacity: 0.5;
+  cursor: pointer;
+}
+.faqs9,
+.link-the17,
+.our-approach16,
+.partners9,
+.patients9 {
+  position: absolute;
+  top: 0;
+  text-transform: capitalize;
+}
+.our-approach16 {
+  left: 85px;
+  color: var(--main-color);
+}
+.faqs9,
+.partners9,
+.patients9 {
+  left: 230px;
+  opacity: 0.5;
+  cursor: pointer;
+}
+.faqs9,
+.partners9 {
+  left: 332px;
+}
+.faqs9 {
+  left: 437px;
+}
+.link-the-science-parent6 {
+  position: absolute;
+  top: 35px;
+  left: 721px;
+  width: 478px;
+  height: 19px;
+  font-size: var(--font-size-base);
+}
+.effortless-medication-access {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 828px;
+  height: 143px;
+}
+.effortless-medication-access-wrapper {
+  position: absolute;
+  top: 230px;
+  left: 100px;
+  width: 828px;
+  height: 143px;
+  font-size: var(--font-size-55xl);
+  color: var(--main-color);
+}
+.what-are-glp-1-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 820px;
+  height: 110px;
+}
+.what-are-glp-1-medications-and-wrapper {
+  position: absolute;
+  top: 2048px;
+  left: 100px;
+  width: 820px;
+  height: 110px;
+  font-size: var(--font-size-40xl);
+  color: var(--main-color);
+}
+.drawing-upon-the {
+  margin: 0;
+}
+.drawing-upon-the-container,
+.our-clinicians-prescribe,
+.through-our-partnering {
+  position: absolute;
+  top: 403px;
+  left: 100px;
+  line-height: 40px;
+  display: inline-block;
+  width: 778px;
+  height: 136px;
+  opacity: 0.5;
+}
+.our-clinicians-prescribe,
+.through-our-partnering {
+  top: 569px;
+  width: 828px;
+  height: 176px;
+}
+.through-our-partnering {
+  top: 775px;
+  width: 787px;
+}
+.our-expert-clinicians {
+  display: inline-block;
+}
+.our-expert-clinicians,
+.our-expert-clinicians-can-pres-wrapper,
+.some-of-the1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 820px;
+  height: 257px;
+}
+.some-of-the1 {
+  top: 287px;
+  font-size: var(--font-size-3xl);
+  line-height: 40px;
+  color: var(--color-black);
+  display: inline-block;
+  width: 799px;
+  height: 137px;
+  opacity: 0.5;
+}
+.group-parent3 {
+  position: absolute;
+  top: 1351px;
+  left: 999px;
+  width: 820px;
+  height: 424px;
+  font-size: var(--font-size-40xl);
+  color: var(--main-color);
+}
+.for-weight-management,
+.in-type-2-container,
+.you-may-have {
+  position: absolute;
+  top: 2208px;
+  left: 100px;
+  line-height: 40px;
+  display: inline-block;
+  width: 783px;
+  height: 137px;
+  opacity: 0.5;
+}
+.for-weight-management,
+.in-type-2-container {
+  top: 2375px;
+}
+.for-weight-management {
+  top: 2542px;
+  height: 99px;
+}
+.effortless-medication-access-2-child1,
+.effortless-medication-access-2-inner,
+.frame-icon {
+  position: absolute;
+  top: 212px;
+  left: 1604px;
+  border-radius: var(--br-3xl);
+  width: 216px;
+  height: 792px;
+  object-fit: cover;
+}
+.effortless-medication-access-2-child1,
+.frame-icon {
+  left: 994px;
+  width: 584px;
+  height: 800px;
+}
+.frame-icon {
+  top: 2035px;
+  left: 1024px;
+  border-radius: var(--br-5xl);
+  width: 802px;
+  height: 573px;
+}
+.effortless-medication-access-2-child2 {
+  position: absolute;
+  top: 3759px;
+  left: 1773px;
+  border-radius: 30px;
+  width: 1625px;
+  height: 418px;
+}
+.group-child59 {
+  position: absolute;
+  bottom: 0;
+  left: calc(50% - 960px);
+  background-color: var(--color-white);
+  width: 1920px;
+  height: 575px;
+}
+.copyright8 {
+  position: relative;
+  line-height: 39.99px;
+  display: inline-block;
+  width: 413.7px;
+}
+.social-media-icon32 {
+  position: absolute;
+  height: 189.72%;
+  width: 326.53%;
+  top: -45.45%;
+  right: -116.33%;
+  bottom: -44.27%;
+  left: -110.2%;
+  border-radius: 10.66px;
+  background-color: var(--secondary-colors-color-2);
+  display: none;
+}
+.facebook-icon8 {
+  position: absolute;
+  height: 94.86%;
+  width: 89.12%;
+  top: 1.98%;
+  right: 2.04%;
+  bottom: 3.16%;
+  left: 8.84%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.social-media-icon-squarefaceb8 {
+  position: relative;
+  width: 14.7px;
+  height: 25.3px;
+}
+.social-media-icon33 {
+  position: absolute;
+  height: 240%;
+  width: 189.72%;
+  top: -70.5%;
+  right: -46.64%;
+  bottom: -69.5%;
+  left: -43.08%;
+  border-radius: 10.66px;
+  background-color: var(--secondary-colors-color-2);
+  display: none;
+}
+.twitter-icon8 {
+  position: absolute;
+  height: 97.5%;
+  width: 94.86%;
+  top: 0.5%;
+  right: 0.79%;
+  bottom: 2%;
+  left: 4.35%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.social-media-icon-squaretwitt8 {
+  position: relative;
+  width: 25.3px;
+  height: 20px;
+}
+.social-media-icon-squareinsta8 {
+  position: relative;
+  width: 25.3px;
+  height: 25.3px;
+}
+.social-media-icon34 {
+  position: absolute;
+  height: 209.61%;
+  width: 200%;
+  top: -55.02%;
+  right: -50%;
+  bottom: -54.59%;
+  left: -50%;
+  border-radius: 10.66px;
+  background-color: var(--secondary-colors-color-2);
+  display: none;
+}
+.linkedin-icon8 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.social-media-icon-parent13 {
+  position: absolute;
+  height: 95.42%;
+  width: 94.86%;
+  top: 4.58%;
+  right: 0.79%;
+  bottom: 0;
+  left: 4.35%;
+}
+.social-media-icon-squarelinke8 {
+  position: relative;
+  width: 25.3px;
+  height: 24px;
+}
+.social-media-icon35 {
+  position: absolute;
+  height: 256.68%;
+  width: 181.82%;
+  top: -78.61%;
+  right: -40.91%;
+  bottom: -78.07%;
+  left: -40.91%;
+  border-radius: 10.66px;
+  background-color: var(--secondary-colors-color-2);
+  display: none;
+}
+.social-media-icon-parent14 {
+  position: absolute;
+  height: 93.5%;
+  width: 94.29%;
+  top: 2.5%;
+  right: 1.07%;
+  bottom: 4%;
+  left: 4.64%;
+}
+.social-media-icon-squareyoutu8 {
+  position: relative;
+  width: 28px;
+  height: 20px;
+}
+.px16,
+.social-media-container8 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 29.32px;
+}
+.px16 {
+  position: absolute;
+  top: 143.2px;
+  left: 132px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 31.99px;
+  color: var(--neutral-600);
+}
+.group-child60 {
+  position: absolute;
+  top: 469.8px;
+  left: 131.3px;
+  border-top: 1.3px solid var(--neutral-400);
+  box-sizing: border-box;
+  width: 1655.5px;
+  height: 1.3px;
+}
+.footer-title24 {
+  position: relative;
+  line-height: 29.32px;
+}
+.line-roundedpassword-icon80 {
+  position: relative;
+  width: 26.7px;
+  height: 26.7px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.getting-started8 {
+  position: relative;
+  line-height: 26.66px;
+}
+.master-link96 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.footer-column24,
+.footer-column25,
+.footer-links16,
+.link115 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.footer-column24,
+.footer-column25,
+.footer-links16 {
+  flex-direction: column;
+}
+.footer-links16 {
+  gap: 23.99px;
+  text-align: center;
+  font-size: 23.99px;
+  color: var(--color-dimgray);
+}
+.footer-column24,
+.footer-column25 {
+  position: absolute;
+  top: 68px;
+  left: 1017px;
+  gap: 53.32px;
+  font-size: 26.66px;
+}
+.footer-column25 {
+  left: 617px;
+}
+.line-roundedemail-icon8 {
+  position: relative;
+  width: 26.7px;
+  height: 26.7px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.link125 {
+  top: 85.3px;
+  flex-direction: row;
+}
+.footer-column26,
+.link125,
+.link126 {
+  position: absolute;
+  left: 0;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.footer-column26 {
+  top: 0;
+  flex-direction: column;
+  text-align: left;
+  font-size: 26.66px;
+  color: var(--color-royalblue);
+  font-family: var(--font-montserrat);
+}
+.link126 {
+  top: 141.3px;
+  flex-direction: row;
+}
+.spacer-icon-wrapper8 {
+  position: relative;
+  width: 26.7px;
+  height: 34.3px;
+}
+.footer-description8 {
+  position: relative;
+  line-height: 39.99px;
+  display: inline-block;
+  width: 263.4px;
+  flex-shrink: 0;
+}
+.px17 {
+  position: absolute;
+  top: 197.3px;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10.66px;
+  text-align: left;
+  font-family: var(--font-montserrat);
+}
+.link-parent7 {
+  position: absolute;
+  top: 68px;
+  left: 1401px;
+  width: 300.7px;
+  height: 237.3px;
+  text-align: center;
+  color: var(--color-dimgray);
+  font-family: var(--font-dm-sans);
+}
+.footer-left8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 39.99px;
+}
+.terms-and-conditions8 {
+  text-decoration: underline;
+  color: var(--main-color);
+}
+.footer-right8 {
+  position: absolute;
+  top: 0;
+  left: 924.1px;
+  line-height: 39.99px;
+  text-align: right;
+}
+.footer-content8 {
+  position: absolute;
+  top: 504px;
+  left: 145.8px;
+  width: 1621.1px;
+  height: 40px;
+  color: var(--color-black);
+}
+.statuswell8 {
+  position: absolute;
+  top: 10px;
+  left: calc(50% - 61px);
+  font-weight: 500;
+}
+.logo-in-3f89fd-blue-removebg-p-icon17 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 62px;
+  height: 53.7px;
+  object-fit: cover;
+}
+.statuswell-parent6 {
+  position: absolute;
+  top: 66px;
+  left: calc(50% - 862px);
+  width: 262px;
+  height: 54px;
+  font-size: var(--font-size-15xl);
+  color: var(--main-color);
+  font-family: var(--font-fahkwang);
+}
+.rectangle-parent12 {
+  position: absolute;
+  bottom: 0;
+  left: calc(50% - 960px);
+  width: 1920px;
+  height: 575px;
+  font-size: 23.99px;
+  color: var(--color-royalblue);
+  font-family: var(--font-montserrat);
+}
+.effortless-medication-access-2-child3 {
+  position: absolute;
+  top: 3444px;
+  left: calc(50% - 960px);
+  width: 1920px;
+  height: 538px;
+  object-fit: cover;
+}
+.what-if-a {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 1020px;
+  height: 118px;
+}
+.what-if-a-glp-1-medication-doe-wrapper {
+  position: absolute;
+  top: 0;
+  left: 67px;
+  width: 1020px;
+  height: 118px;
+}
+.glp-1-medications-are {
+  position: absolute;
+  top: 158px;
+  left: 0;
+  font-size: var(--font-size-3xl);
+  line-height: 32px;
+  display: inline-block;
+  width: 1155px;
+  height: 65px;
+}
+.effortless-medication-access-2-inner1,
+.group-parent4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1155px;
+  height: 223px;
+}
+.effortless-medication-access-2-inner1 {
+  top: 3602px;
+  left: 383px;
+  text-align: center;
+  font-size: var(--font-size-40xl);
+  color: var(--color-white);
+}
+.some-of-the2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 69px;
+  display: inline-block;
+  width: 905px;
+  height: 112px;
+}
+.some-of-the-glp-1-medications-wrapper {
+  position: absolute;
+  top: 2875px;
+  left: 508px;
+  width: 905px;
+  height: 112px;
+  text-align: center;
+  font-size: var(--font-size-40xl);
+  color: var(--main-color);
+}
+.mounjaro-tirzepatide,
+.ozempic-and-wegovy,
+.saxenda-and-victoza {
+  position: absolute;
+  top: 3216px;
+  left: 815px;
+  line-height: 32px;
+  font-weight: 600;
+  color: var(--color-gray-200);
+  text-align: center;
+  display: inline-block;
+  width: 232px;
+  height: 48px;
+}
+.mounjaro-tirzepatide,
+.saxenda-and-victoza {
+  top: 3207px;
+  left: 1187px;
+  width: 217px;
+}
+.mounjaro-tirzepatide {
+  top: 3215px;
+  left: 523px;
+  width: 144px;
+  height: 46px;
+}
+.medicine-1-icon {
+  position: absolute;
+  top: 36px;
+  left: 49px;
+  width: 82.4px;
+  height: 88px;
+  object-fit: cover;
+}
+.group-1402png4 {
+  position: absolute;
+  height: calc(100% - 4397px);
+  top: 3023px;
+  bottom: 1374px;
+  left: calc(50% - 445px);
+  border-radius: var(--br-101xl);
+  background-color: var(--color-lightsteelblue);
+  width: 160px;
+  overflow: hidden;
+}
+.medicine1-1-icon {
+  position: absolute;
+  top: 36px;
+  left: 36px;
+  width: 88px;
+  height: 88px;
+  object-fit: cover;
+}
+.group-1379-aadbb46d-c3a9-4859-1,
+.group-1380png4 {
+  position: absolute;
+  height: calc(100% - 4397px);
+  top: 3023px;
+  bottom: 1374px;
+  left: calc(50% - 109px);
+  border-radius: var(--br-101xl);
+  background-color: var(--color-lightsteelblue);
+  width: 160px;
+  overflow: hidden;
+}
+.group-1380png4 {
+  left: calc(50% + 255px);
+}
+.group-child61,
+.group-child62 {
+  position: absolute;
+  border-radius: var(--br-5xl);
+}
+.group-child61 {
+  top: 31.3px;
+  left: 22px;
+  width: 762px;
+  height: 545px;
+  object-fit: cover;
+}
+.group-child62 {
+  top: 15.3px;
+  left: 10px;
+  border: 3px solid var(--main-color);
+  box-sizing: border-box;
+  width: 788px;
+  height: 568px;
+}
+.group-child63,
+.group-child64,
+.group-child65,
+.group-child66 {
+  position: absolute;
+  top: 57.3px;
+  left: 788px;
+  background-color: var(--color-white);
+  width: 21px;
+  height: 490px;
+}
+.group-child64,
+.group-child65,
+.group-child66 {
+  left: 0;
+}
+.group-child65,
+.group-child66 {
+  top: 4.8px;
+  left: 749.7px;
+  height: 691.4px;
+  transform: rotate(90.4deg);
+  transform-origin: 0 0;
+}
+.group-child66 {
+  top: 579.2px;
+}
+.rectangle-parent13 {
+  position: absolute;
+  top: 1260.7px;
+  left: 123px;
+  width: 809px;
+  height: 600.2px;
+}
+.effortless-medication-access-2-child4,
+.effortless-medication-access-2-child5 {
+  position: absolute;
+  top: 984.2px;
+  left: 855px;
+  border-radius: 50%;
+  border: 3px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 50.4px;
+  height: 50.4px;
+  transform: rotate(-10.46deg);
+  transform-origin: 0 0;
+}
+.effortless-medication-access-2-child5 {
+  top: 1005.9px;
+  left: 873.2px;
+  border: 3px solid var(--color-royalblue);
+  height: 51.5px;
+}
+.learn-more {
+  position: absolute;
+  top: 21px;
+  left: calc(50% - 97.5px);
+  letter-spacing: 0.6px;
+  line-height: 29px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 126px;
+  height: 20px;
+}
+.svg-icon15 {
+  position: absolute;
+  top: calc(50% - 7px);
+  left: calc(50% + 40.5px);
+  width: 18px;
+  height: 14px;
+}
+.link127,
+.link128 {
+  position: absolute;
+  top: 3323px;
+  left: calc(50% - 145px);
+  border-radius: var(--br-3xs);
+  background-color: var(--main-color);
+  width: 225px;
+  height: 63px;
+  cursor: pointer;
+  text-align: center;
+  font-size: 19.38px;
+  color: var(--color-white);
+}
+.link128 {
+  top: 3861px;
+  left: calc(50% - 130px);
+}
+.effortless-medication-access-2 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 4557px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-3xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
